@@ -8,7 +8,7 @@ public class ValueTest {
 		int Tot;
 
 		Tot = aVal + bVal;
-		System.out.println("Tot = ");
+		System.out.println("Tot = " );
 	}
 
 }
